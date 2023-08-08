@@ -6,7 +6,7 @@ const CONFIG = {
     role: "PM · 기획자",
     bio: "안녕하세요. 기획자 우기입니다.",
     email: "",
-    linkedin: "",
+    linkedin: "서영욱",
     github: "",
     instagram: "",
   },
