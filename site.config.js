@@ -5,8 +5,8 @@ const CONFIG = {
     image: "/profile.jpeg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "PM · 기획자",
     bio: "안녕하세요, 기획자 woogie입니다.",
-    email: "",
-    linkedin: "https://www.linkedin.com/in/%EC%98%81%EC%9A%B1-%EC%84%9C-046893260/",
+    email: "topazian1121@gmail.com",
+    linkedin: "영욱-서-046893260",
     github: "",
     instagram: "",
   },
